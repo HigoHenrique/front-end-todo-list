@@ -1,0 +1,12 @@
+#root {
+  max-width: 100%;
+  min-height: 60vw;
+  padding: 0;
+  box-sizing: content-box;
+  text-align: center;
+  justify-content: center;
+  background-color:#122368 ;
+  margin:0;
+  color: #e2e4e9;
+  display: flex;
+}
